@@ -134,7 +134,7 @@ In sprawling campuses and multifaceted facilities, the autonomous vehicle emerge
 In the domain of warehouse operations, the project revolutionizes inventory handling and logistics. Its precise navigation, object detection, and automated movements optimize material transportation within the facility. By reducing manual intervention, it enhances efficiency, accuracy, and safety, making it a pivotal tool in modern warehouse management.
 ## Contributors
 
-[Purva Yeshi](https://github.com/PurviSYeshi)           
+[Purva Yeshi](https://github.com/purviyeshi)           
 [Suraj Sonawane](https://github.com/SurajSonawane2415)           
 [Pranav Vispute](https://github.com/visputepnv6)           
 [Pallavi Chavanake](https://github.com/chavankepal64)           
